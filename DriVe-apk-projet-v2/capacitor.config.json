@@ -1,0 +1,9 @@
+{
+  "appId": "com.drive.app",
+  "appName": "DriVe",
+  "webDir": "www",
+  "backgroundColor": "#FFFFFF",
+  "android": {
+    "allowMixedContent": false
+  }
+}
